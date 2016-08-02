@@ -1,5 +1,8 @@
-# Formulario web + Manejo de tablas HTML
+# Formularios web estáticos
 
-El proyecto web estático tiene páginas de navegación y un formulario HTML con varios controles, 
-que pasa información vía POST o GET. También muestra una tabla en una página con manejo básico de estilos mediante un CSS.
+Este ejemplo consiste en páginas estáticas HTML con un menú de navegación 
+
+* en el primero tenemos un formulario HTML con varios controles, que pasa información al confirmarse vía POST o GET
+* en el segundo tenemos una tabla con manejo básico de estilos mediante un CSS
+
 
